@@ -78,28 +78,28 @@ Before running the project, ensure you have the following installed:
 
 ### Step 1: Clone the Repository
 
-\```bash
+```bash
 git clone https://github.com/yourusername/BlogVilla.git
 cd BlogVilla
-\```
+```
 
 ### Step 2: Configure the Database
 
 -   Open `appsettings.json` and update the `ConnectionStrings` section to match your database configuration:
 
-\```json
+```json
 "ConnectionStrings": {
-"DefaultConnection": "Server=YOUR_SERVER;Database=BlogVillaDb;User Id=YOUR_USERNAME;Password=YOUR_PASSWORD;"
+  "DefaultConnection": "Server=YOUR_SERVER;Database=BlogVillaDb;User Id=YOUR_USERNAME;Password=YOUR_PASSWORD;"
 }
-\```
+```
 
 ### Step 3: Apply Migrations
 
 To set up the database schema, run the following command:
 
-\```bash
+```bash
 dotnet ef database update
-\```
+```
 
 This will apply the necessary migrations and create the database tables.
 
@@ -107,9 +107,9 @@ This will apply the necessary migrations and create the database tables.
 
 You can now run the application using the .NET CLI:
 
-\```bash
+```bash
 dotnet run
-\```
+```
 
 Alternatively, open the solution in Visual Studio and run it from there.
 
