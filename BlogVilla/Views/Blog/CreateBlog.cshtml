@@ -1,0 +1,49 @@
+﻿@model BlogUploadViewModel
+
+<div class="container mt-5">
+    <h2 class="text-center">Create a Blog</h2>
+    <div class="card p-4 shadow-sm">
+        <form id="blogForm" enctype="multipart/form-data" method="post">
+            <div class="form-group mb-3">
+                <label asp-for="Title" class="form-label fw-bold">Title</label>
+                <input asp-for="Title" class="form-control" placeholder="Enter blog title" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="CoverPhoto" class="form-label">Cover Image</label>
+                <input asp-for="CoverPhoto" class="form-control" type="file" />
+                <span class="text-danger" asp-validation-for="CoverPhoto"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Content" class="form-label fw-bold">Content</label>
+                <textarea asp-for="Content" class="form-control" rows="6" placeholder="Write your blog content here"></textarea>
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+
+            <!-- Hidden field to track whether it's a draft -->
+            <input type="hidden" asp-for="IsDraft" id="isDraftField" />
+
+            <div class="text-center mt-4">
+                <button type="submit" class="btn btn-primary me-2" id="publishBtn">Publish</button>
+                <button type="submit" class="btn btn-secondary me-2" id="draftBtn">Save as Draft</button>
+                <button type="reset" class="btn btn-warning" onclick="document.getElementById('blogForm').reset()">Clear Form</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // When the publish button is clicked, set IsDraft to false
+        document.getElementById('publishBtn').addEventListener('click', function () {
+            document.getElementById('isDraftField').value = 'false';
+        });
+
+        // When the save as draft button is clicked, set IsDraft to true
+        document.getElementById('draftBtn').addEventListener('click', function () {
+            document.getElementById('isDraftField').value = 'true';
+        });
+    </script>
+}

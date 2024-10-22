@@ -1,0 +1,75 @@
+﻿@model BlogListViewModel
+
+<div class="container mt-4">
+    <!-- Search Bar -->
+    <form method="get" asp-action="BlogList" class="mb-3">
+        <div class="input-group">
+            <input type="text" class="form-control" name="searchQuery" value="@Model.SearchQuery" placeholder="Search blogs by title, content, author...">
+            <div class="input-group-append">
+                <button class="btn btn-primary" type="submit">Search</button>
+            </div>
+        </div>
+    </form>
+
+    <!-- Blog Cards Grid -->
+    <div class="row">
+        @foreach (var blog in Model.Blogs)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <img src="@blog.CoverPhoto" class="card-img-top" alt="Blog cover photo" style="height: 200px; object-fit: cover;" />
+
+                    <div class="card-body" style="height:250px">
+                        <h5 class="card-title">@blog.Title</h5>
+                        <p class="card-text">@blog.Content.Substring(0, Math.Min(blog.Content.Length, 100))...</p>
+                        <p>
+                            <i class="fa-solid fa-heart text-danger me-1"></i> @blog.Likes.Count
+                            <i class="fa-solid fa-comment text-success me-1 ms-3"></i> @blog.Comments.Count
+                        </p>
+                        <a asp-controller="Blog" asp-action="BlogDetails" asp-route-id="@blog.Id" class="btn btn-primary">View Blog</a> <!-- Dummy link -->
+                    </div>
+                    <div class="card-footer text-muted">
+                        <div class="d-flex align-items-center">
+                            <img src="@blog.Author.ProfilePhoto" alt="Author's photo" class="rounded-circle me-2" style="width: 40px; height: 40px;" />
+                            <div>
+                                <p class="mb-0"><strong>@blog.Author.Username</strong></p>
+                                <small class="text-muted">@blog.Author.Email</small>
+                            </div>
+                        </div>
+                        Last updated: @(blog.UpdatedAt.HasValue ? blog.UpdatedAt.Value.ToString("g") : blog.CreatedAt.ToString("g"))
+                    </div>
+                </div>
+            </div>
+        }
+        @if (!Model.Blogs.Any())
+        {
+            <p class="text-center">No blogs available.</p>
+        }
+    </div>
+
+    <!-- Pagination -->
+    <nav>
+        <ul class="pagination justify-content-center">
+            @if (Model.HasPreviousPage)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="BlogList" asp-route-page="@(Model.CurrentPage - 1)" asp-route-searchQuery="@Model.SearchQuery">Previous</a>
+                </li>
+            }
+
+            @for (var i = 1; i <= Model.TotalPages; i++)
+            {
+                <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                    <a class="page-link" asp-action="BlogList" asp-route-page="@i" asp-route-searchQuery="@Model.SearchQuery">@i</a>
+                </li>
+            }
+
+            @if (Model.HasNextPage)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="BlogList" asp-route-page="@(Model.CurrentPage + 1)" asp-route-searchQuery="@Model.SearchQuery">Next</a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div>

@@ -1,0 +1,60 @@
+﻿@model UserBlogsViewModel
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Blogs by @Model.Owner.Username</h2>
+
+    @if (Model.IsCurrentUser)
+    {
+        <div class="mb-4">
+            <!-- Tab Navigation -->
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a class="nav-link @(Model.SelectedTab == "published" ? "active" : "")"
+                       href="@Url.Action("UserBlogs", new { userId=Model.Owner.Id, tab = "published" })">Published</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link @(Model.SelectedTab == "drafts" ? "active" : "")"
+                       href="@Url.Action("UserBlogs", new { userId=Model.Owner.Id, tab = "drafts" })">Drafts</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link @(Model.SelectedTab == "canceled" ? "active" : "")"
+                       href="@Url.Action("UserBlogs", new { userId=Model.Owner.Id, tab = "canceled" })">Canceled</a>
+                </li>
+            </ul>
+        </div>
+    }
+
+    <div class="row">
+        @foreach (var blog in Model.Blogs)
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <img src="@blog.CoverPhoto" class="card-img-top" alt="Blog cover photo" style="height: 200px; object-fit: cover;" />
+                    <div class="card-body" style="height:200px">
+                        <h5 class="card-title">
+                            @blog.Title
+                            @if (blog.IsCanceled)
+                            {
+                                <span class="badge bg-danger text-dark">Canceled</span>
+                            }
+                            else if(blog.IsDraft)
+                            {
+                                <span class="badge bg-warning text-dark">Draft</span>
+                            }
+                        </h5>
+                        <p class="card-text">@blog.Content.Substring(0, Math.Min(blog.Content.Length, 100))...</p>
+                        <a asp-controller="Blog" asp-action="BlogDetails" asp-route-id="@blog.Id" class="btn btn-primary">View Blog</a> <!-- Dummy link -->
+                    </div>
+                    <div class="card-footer text-muted">
+                        Last updated: @(blog.UpdatedAt.HasValue ? blog.UpdatedAt.Value.ToString("g") : blog.CreatedAt.ToString("g"))
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    @if (!Model.Blogs.Any())
+    {
+        <p class="text-center">No blogs available in this category.</p>
+    }
+</div>

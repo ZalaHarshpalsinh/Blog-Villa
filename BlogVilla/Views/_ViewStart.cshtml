@@ -1,0 +1,13 @@
+﻿@{
+    Layout = "_Layout";
+    ViewBag.IsLoggedIn = Auth.IsLoggedIn(HttpContextAccessor.HttpContext); 
+    if(ViewBag.IsLoggedIn)
+    {
+        ViewBag.IsAdmin = HttpContextAccessor.HttpContext.Session.GetInt32("isAdmin") == 1;
+        ViewBag.UserId = HttpContextAccessor.HttpContext.Session.GetInt32("userId");
+    }
+
+    ViewBag.pageMessage = HttpContextAccessor.HttpContext.Session.GetString("pageMessage");
+    ViewBag.pageMessageType = HttpContextAccessor.HttpContext.Session.GetString("pageMessageType");
+    Message.ResetMessage(HttpContextAccessor.HttpContext);
+}

@@ -1,0 +1,529 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Harshpalsinh\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogVilla.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogVilla.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\18f3e2d3-4fe9-4bce-8977-8911de0a2bf3_WIN_20231206_09_26_30_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\18f3e2d3-4fe9-4bce-8977-8911de0a2bf3_WIN_20231206_09_26_30_Pro.jpg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\1e46f54e-aaaa-4ef3-9925-f0d38a378b52_nature.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\1e46f54e-aaaa-4ef3-9925-f0d38a378b52_nature.jpeg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\3240750f-8cb9-454e-a64c-0b2050740730_nature.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\3240750f-8cb9-454e-a64c-0b2050740730_nature.jpeg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\46ae6d61-4da8-454f-92c1-e92eff2b7f34_tmp1.png",
+      "PackagePath": "staticwebassets\\uploads\\46ae6d61-4da8-454f-92c1-e92eff2b7f34_tmp1.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\527ee10e-6375-4b0d-bd22-1c550bfe0772_silver.png",
+      "PackagePath": "staticwebassets\\uploads\\527ee10e-6375-4b0d-bd22-1c550bfe0772_silver.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\5fa4037a-5556-42e9-a0d6-d82de6a54b77_WIN_20231206_09_26_30_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5fa4037a-5556-42e9-a0d6-d82de6a54b77_WIN_20231206_09_26_30_Pro.jpg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\84b32f8f-2fed-452d-bd87-00835d35d19e_armor-2.png",
+      "PackagePath": "staticwebassets\\uploads\\84b32f8f-2fed-452d-bd87-00835d35d19e_armor-2.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\85759275-88c8-4773-a532-2f051b45d425_Penny Pilot (3).png",
+      "PackagePath": "staticwebassets\\uploads\\85759275-88c8-4773-a532-2f051b45d425_Penny Pilot (3).png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\8b5f1a4f-fb25-4bb6-8bd0-517f6134553e_bird.png",
+      "PackagePath": "staticwebassets\\uploads\\8b5f1a4f-fb25-4bb6-8bd0-517f6134553e_bird.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\9588a05a-3529-4df0-8b11-ad1138dd9e8e_nature.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\9588a05a-3529-4df0-8b11-ad1138dd9e8e_nature.jpeg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\9a800707-dc9b-4b1e-a2bc-b76810a1abb9_high_score.png",
+      "PackagePath": "staticwebassets\\uploads\\9a800707-dc9b-4b1e-a2bc-b76810a1abb9_high_score.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\9e7c433d-98bd-4d6e-9943-84ef4de4e112_silver.png",
+      "PackagePath": "staticwebassets\\uploads\\9e7c433d-98bd-4d6e-9943-84ef4de4e112_silver.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\a67aa329-af9b-4351-8e1d-42204004a15c_WIN_20231206_09_26_30_Pro.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a67aa329-af9b-4351-8e1d-42204004a15c_WIN_20231206_09_26_30_Pro.jpg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\ae998d36-09dc-4d75-b2d3-074f265285a8_nature.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ae998d36-09dc-4d75-b2d3-074f265285a8_nature.jpeg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\b6b20425-acb6-44e6-8c40-1bd9289d01c9_bird.png",
+      "PackagePath": "staticwebassets\\uploads\\b6b20425-acb6-44e6-8c40-1bd9289d01c9_bird.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\beb31f2d-06d8-4008-a5a1-1bba882847d1_nature.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\beb31f2d-06d8-4008-a5a1-1bba882847d1_nature.jpeg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\c8ddddac-97af-48d1-81ca-d0d82a6046a0_armor-1.png",
+      "PackagePath": "staticwebassets\\uploads\\c8ddddac-97af-48d1-81ca-d0d82a6046a0_armor-1.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\ccf8f6fa-7d0d-4640-b3cd-dcbee64b3175_nature.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ccf8f6fa-7d0d-4640-b3cd-dcbee64b3175_nature.jpeg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\e5ce3779-d01f-402f-b437-d927b910036a_bird.png",
+      "PackagePath": "staticwebassets\\uploads\\e5ce3779-d01f-402f-b437-d927b910036a_bird.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\eb333681-ad8a-4918-b77c-7887170ac95d_nature.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\eb333681-ad8a-4918-b77c-7887170ac95d_nature.jpeg"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\efb7d99f-efb1-47c7-9e7e-fe8304b16a87_bird.png",
+      "PackagePath": "staticwebassets\\uploads\\efb7d99f-efb1-47c7-9e7e-fe8304b16a87_bird.png"
+    },
+    {
+      "Id": "F:\\DDU_CE\\Sem-5\\WAD\\Projects\\BlogVilla\\BlogVilla\\wwwroot\\uploads\\efe0a730-3df2-45be-9077-554a9aee3350_locked_brick.png",
+      "PackagePath": "staticwebassets\\uploads\\efe0a730-3df2-45be-9077-554a9aee3350_locked_brick.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlogVilla.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlogVilla.props",
+      "PackagePath": "build\\BlogVilla.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogVilla.props",
+      "PackagePath": "buildMultiTargeting\\BlogVilla.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlogVilla.props",
+      "PackagePath": "buildTransitive\\BlogVilla.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

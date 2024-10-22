@@ -1,0 +1,41 @@
+﻿@model EditProfileViewModel
+
+<h2 class="text-center mb-4">Edit Profile</h2>
+
+<form asp-action="EditProfile" method="post" enctype="multipart/form-data" class="needs-validation">
+    <input type="hidden" asp-for="Id" /> <!-- Hidden ID field -->
+    <div asp-validation-summary="All"></div>
+    <div class="form-group mb-3">
+        <label asp-for="Username" class="form-label"></label>
+        <input asp-for="Username" class="form-control" />
+        <span class="text-danger" asp-validation-for="Username"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" type="email" />
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="ProfilePhoto" class="form-label">Profile Photo</label>
+        <input asp-for="ProfilePhoto" class="form-control" type="file" />
+        <span class="text-danger" asp-validation-for="ProfilePhoto"></span>
+    </div>
+
+    @if (Model.ExistingProfilePhoto != null)
+    {
+        <div class="form-group mb-3">
+            <label>Current Profile Photo</label>
+            <div>
+                <img src="@Model.ExistingProfilePhoto" alt="Profile Photo" class="img-thumbnail" style="width: 100px; height: 100px;" />
+            </div>
+        </div>
+    }
+
+    <button type="submit" class="btn btn-primary w-100">Save Changes</button>
+</form>
+
+<div class="text-center mt-3">
+    <a asp-action="Profile" asp-route-userId="@Model.Id" class="btn btn-secondary">Cancel</a>
+</div>
